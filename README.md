@@ -1,7 +1,6 @@
 ***
-# Housing-Prices-
+# Housing Prices Prediction Using Machine Learining
 ***
-
 
 The 'House Prices: Advanced Regression Techniques’ Challenge is very engaging Kaggle Competition for participants as it requires skills in problem solving with Machine-Learning algorithms. The objective of the challenge is the prediction of the sale-prices of houses in a specific region of North America. The provided data set contains many key-factors that may have influence on the price of the houses.
 This problem has one major task: the minimization of the error of prediction. Several methods have been implemented and Machine-Learning algorithms used. Including a DNN (Deep Neural Network) model has been developed and implemented in this kernel using Scikit-learn.
