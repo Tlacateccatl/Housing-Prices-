@@ -38,8 +38,8 @@ Random Forest was found to be the better model for predicting house prices. It o
 pandas
 numpy 
 seaborn
-matplotlib.pyplot <
+matplotlib.pyplot 
 scipy 
-sklearn  <
+sklearn  
 ```
 
