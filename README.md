@@ -31,13 +31,13 @@ Random Forest was found to be the better model for predicting house prices. It o
     c. XGBOOST <br>
     d. SVM <br>
 7. Evaluation
-Python Dependencies:
+Python Dependencies:<br>
 <code> 
-ipandas
-numpy
+ipandas <br>
+numpy <br>
 seaborn
-matplotlib.pyplot
-scipy
-sklearn 
+matplotlib.pyplot <br>
+scipy <br>
+sklearn  <br>
 <code/>
 
